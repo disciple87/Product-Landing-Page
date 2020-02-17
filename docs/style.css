@@ -138,7 +138,7 @@
     text-align: center;
     height: 300px;
     margin-top: 80px;
-
+    
   }
 
   #bestcam > h2 {
@@ -167,8 +167,9 @@
   }
 
 @media(max-width: 650px) {
-    #hero {
-      margin-top: 120px;
+    #bestcam{
+      margin-top: 170px;
+      margin-bottom: -100px;
     }
   }
   
